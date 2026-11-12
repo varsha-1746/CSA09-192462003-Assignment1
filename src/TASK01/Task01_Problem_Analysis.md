@@ -3,7 +3,7 @@
 ## 1. Problem Understanding
 
 The Campus Smart-Parking System is designed to manage vehicle parking in a multi-level university parking facility. The facility is used by students, staff and visitors. It supports two-wheelers, cars and electric vehicles. Electric vehicles may also require special charging slots.
-
+ 
 When a vehicle enters the facility, the system checks for a suitable free parking slot, allocates the slot and generates a unique parking ticket. The entry time is recorded. When the vehicle exits, the system calculates the parking fee based on the vehicle type and parking duration, releases the occupied slot and updates the availability.
 
 Students and staff with a valid monthly pass are allowed to park without paying the normal parking fee, whereas visitors must pay the applicable charges.
