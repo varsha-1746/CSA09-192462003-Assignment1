@@ -4,7 +4,7 @@
 **Student Name:** VARSHA S 
 **Register Number:** 192462003
 **Java Version:** JDK 17 (JavaSE-17)  
-**GitHub Repository:** [https://github.com/varsha-1746/CSA0907-192462003-Assignment1](https://github.com/varsha-1746/CSA0907-192462003-Assignment1)
+**GitHub Repository:** https://github.com/varsha-1746/CSA09-192462003-Assignment1/tree/main
 
 ---
 
